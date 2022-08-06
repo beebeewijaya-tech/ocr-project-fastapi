@@ -1,4 +1,4 @@
-from fastapi import UploadFile, File
+from fastapi import UploadFile
 
 from services.file import image_to_text
 
